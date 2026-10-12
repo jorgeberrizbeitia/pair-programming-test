@@ -1,0 +1,1 @@
+console.log("code from script.js")
